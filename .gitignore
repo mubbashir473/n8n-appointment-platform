@@ -1,0 +1,25 @@
+# Environment / secrets
+.env
+.env.*
+*.secret
+secrets/
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# n8n local data
+.n8n/
+
+# IDE
+.vscode/
+.idea/
